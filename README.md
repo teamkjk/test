@@ -4,3 +4,4 @@ build test
 3
 webhook test
 test!
+auto test
